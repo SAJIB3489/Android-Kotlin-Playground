@@ -55,7 +55,7 @@ A simple app displaying different countries' flags and names in a grid layout us
   - Uses `LazyColumn` for performance  
   - Custom themes and icons  
 
-📂 **Path:** `apps/FlagCardsApp/`  
+📂 **Path:** ![apps/FlagCardsApp/](apps/FlagCardsApp/) 
 
 ---
 
