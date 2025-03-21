@@ -45,7 +45,10 @@ Android-Kotlin-Playground/
 ### 🏳️ FlagCardsApp  
 A simple app displaying different countries' flags and names in a grid layout using Jetpack Compose.  
 
-![FlagCardsApp Screenshot](/apps/FlagCardsApp/apps-overview.png)  
+[FlagCardsApp Screenshot](/apps/FlagCardsApp/apps-overview.png)  
+
+<img src="/apps/FlagCardsApp/apps-overview.png" alt="FlagCardsApp Screenshot" style="border-radius: 10px;"/>
+
 
 - **Features:**  
   - Displays country names and flags  
