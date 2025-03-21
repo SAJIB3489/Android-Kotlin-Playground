@@ -58,12 +58,3 @@ A simple app displaying different countries' flags and names in a grid layout us
 📂 **Path:** ![apps/FlagCardsApp/](apps/FlagCardsApp/) 
 
 ---
-
-### ☀️ WeatherApp  
-A weather forecasting app fetching real-time weather data from an API.  
-
-![WeatherApp Screenshot](apps/WeatherApp/screenshot.png)  
-
-📂 **Path:** `apps/WeatherApp/`  
-
----
