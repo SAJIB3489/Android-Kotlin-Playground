@@ -42,7 +42,7 @@ Android-Kotlin-Playground/
 
 ## 📱 Apps Overview  
 
-### 🏳️ FlagCardsApp  
+### 7. FlagCardsApp  🏳️
 A simple app displaying different countries' flags and names in a grid layout using Jetpack Compose.  
 
 <kbd>
