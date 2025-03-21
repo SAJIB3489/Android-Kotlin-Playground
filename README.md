@@ -47,7 +47,7 @@ Android-Kotlin-Playground/
 FlagCards is a simple Kotlin-based Android app that displays the names and flags of four different countries in a visually appealing card layout. Each country's information is presented in a custom-styled card using Jetpack Compose. The app follows Material Design principles and supports both dark mode and dynamic color themes.
 
 <kbd>
-  <img src="/apps/FlagCardsApp/apps-overview.png">
+  <img src="/apps/FlagCardsApp/app-overview.png">
 </kbd>
 
 
@@ -67,7 +67,7 @@ FlagCards is a simple Kotlin-based Android app that displays the names and flags
 The Multi Counter App is a Kotlin-based Android application that provides a scrollable list of counters. Each counter is independently adjustable, allowing users to increase or decrease its value. The app uses LazyColumn for efficient rendering and supports adding or removing counters dynamically at runtime.
 
 <kbd>
-  <img src="/apps/LazyCounter/apps-overview.png">
+  <img src="/apps/LazyCounter/app-overview.png">
 </kbd>
 
 
