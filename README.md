@@ -16,26 +16,25 @@ Android-Kotlin-Playground/
 │── README.md
 │── .gitignore 
 
-
 ---
 
 ## 🛠️ How to Run the Apps  
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/Android-Kotlin-Playground.git
+   git clone https://github.com/SAJIB3489/Android-Kotlin-Playground.git
    cd Android-Kotlin-Playground
 
 2. Open in Android Studio
 
-    Open Android Studio
-    Click "Open an Existing Project"
-    Select the app folder, e.g., apps/FlagCardsApp/
+   - Open Android Studio
+   - Click "Open an Existing Project"
+   - Select the app folder, e.g., apps/FlagCardsApp/
 
 3. Build & Run
 
-    Connect an emulator or device
-    Click Run ▶️
+   - Connect an emulator or device
+   - Click Run ▶️
 
 
 ---
