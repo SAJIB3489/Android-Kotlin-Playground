@@ -47,7 +47,7 @@ A simple app displaying different countries' flags and names in a grid layout us
 
 [FlagCardsApp Screenshot](/apps/FlagCardsApp/apps-overview.png)  
 
-<img src="/apps/FlagCardsApp/apps-overview.png" alt="FlagCardsApp Screenshot" style="border-radius: 10px;"/>
+<img src="/apps/FlagCardsApp/apps-overview.png" alt="FlagCardsApp Screenshot" style="border-radius: 30px;"/>
 
 
 - **Features:**  
