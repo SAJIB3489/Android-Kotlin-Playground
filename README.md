@@ -25,13 +25,13 @@ Android-Kotlin-Playground/
    git clone https://github.com/SAJIB3489/Android-Kotlin-Playground.git
    cd Android-Kotlin-Playground
 
-2. Open in Android Studio
+2. **Open in Android Studio**
 
    - Open Android Studio
    - Click "Open an Existing Project"
    - Select the app folder, e.g., apps/FlagCardsApp/
 
-3. Build & Run
+3. **Build & Run**
 
    - Connect an emulator or device
    - Click Run ▶️
