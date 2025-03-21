@@ -8,7 +8,6 @@ Android-Kotlin-Playground/
 │ ├── FlagCardsApp/
 │ ├── WeatherApp/
 │ └── NotesApp/
-
 │── shared-resources/
 │   ├── fonts/
 │   ├── icons/  
