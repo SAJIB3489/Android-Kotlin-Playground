@@ -29,6 +29,7 @@ Android-Kotlin-Playground/
 
    - Open Android Studio
    - Click "Open an Existing Project"
+   - Check the ``compileSdk = 35`` and ``targetSdk = 35`` are set correctly in ``Gradle Scripts/build.gradle.kts``
    - Select the app folder, e.g., ``apps/FlagCardsApp/``
    - Place the images, icons, and font in the your project's ``/res/`` directory
 
