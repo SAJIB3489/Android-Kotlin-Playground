@@ -43,7 +43,7 @@ Android-Kotlin-Playground/
 ## 📱 Apps Overview  
 
 ### 7. FlagCardsApp  🏁
-A simple app displaying different countries' flags and names in a grid layout using Jetpack Compose.  
+FlagCards is a simple Kotlin-based Android app that displays the names and flags of four different countries in a visually appealing card layout. Each country's information is presented in a custom-styled card using Jetpack Compose. The app follows Material Design principles and supports both dark mode and dynamic color themes.
 
 <kbd>
   <img src="/apps/FlagCardsApp/apps-overview.png">
@@ -51,9 +51,12 @@ A simple app displaying different countries' flags and names in a grid layout us
 
 
 - **Features:**  
-  - Displays country names and flags  
-  - Uses `LazyColumn` for performance  
-  - Custom themes and icons  
+  - Displays 4 Countries
+  - Custom Card Design
+  - Geo Font
+  - Dynamic Color Support
+  - Dark Theme Enabled
+  - Custom App Icon
 
 📂 **Path:** ![apps/FlagCardsApp/](apps/FlagCardsApp/) 
 
