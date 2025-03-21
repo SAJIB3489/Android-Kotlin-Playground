@@ -29,7 +29,7 @@ Android-Kotlin-Playground/
 
    - Open Android Studio
    - Click "Open an Existing Project"
-   - Select the app folder, e.g., apps/FlagCardsApp/
+   - Select the app folder, e.g., ``apps/FlagCardsApp/``
 
 3. **Build & Run**
 
