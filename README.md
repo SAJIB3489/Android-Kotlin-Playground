@@ -100,3 +100,4 @@ The Multi Counter App is a Kotlin-based Android application that provides a scro
 
 ---
 
+Development of this repository is ongoing.........
