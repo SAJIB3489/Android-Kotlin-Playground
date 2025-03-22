@@ -3,21 +3,22 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 
 ## 📂 Repository Structure  
 
+
 Android-Kotlin-Playground/
 │── apps/                  
 │   ├── FlagCardsApp/       # App to display country flags  
-│   ├── MultiCounterApp/   
-│   ├── TripleCounterApp/  
-│   ├── ProductBannerApp/  
+│   ├── MultiCounterApp/    # Scrollable list of independent counters  
+│   ├── TripleCounterApp/   # Three counters with editable start values  
+│   ├── ProductBannerApp/   # Banner displaying product details  
 │   ├── MoreApps.../        
 │
-│── shared-resources/ 
-│   ├── fonts/  
-│   ├── icons/ 
-│   └── images/ 
+│── shared-resources/       # Common assets for all apps  
+│   ├── fonts/              # Custom fonts (e.g., Geo font)  
+│   ├── icons/              # App icons  
+│   └── images/             # Screenshots & background images  
 │
-│── README.md
-│── .gitignore
+│── README.md               # Documentation for repository  
+│── .gitignore              # Excludes unnecessary files from Git  
 
 
 ---
