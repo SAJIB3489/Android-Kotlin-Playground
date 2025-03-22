@@ -43,7 +43,7 @@ Android-Kotlin-Playground/
 
 ## 📱 Apps Overview  
 
-### 7. LazyCounter
+### 5. LazyCounter
 Triple Counter is a simple yet interactive Kotlin-based Android app that allows users to manage three independent counters. Each counter has its own + and - buttons to increment or decrement values. Users can also set a custom starting value through an editable text field.
 
 <kbd>
@@ -55,7 +55,7 @@ Triple Counter is a simple yet interactive Kotlin-based Android app that allows 
   - Three Independent Counters – Each counter operates separately.
   - Custom Starting Value – Users can enter an initial value in a text field.
   - Increment & Decrement Buttons – Each counter has + and - buttons.
-  - Organized UI Layout – Uses a Column for structured alignment.
+  + Organized UI Layout – Uses a Column for structured alignment.
 
 📂 **Path:** ![apps/CounterApp/](apps/CounterApp/) 
 
