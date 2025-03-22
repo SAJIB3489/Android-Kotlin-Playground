@@ -3,6 +3,56 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 
 ## 📂 Repository Structure  
 
+Android-Kotlin-Playground/
+├─ .gitignore
+├─ apps/
+│  ├─ CounterApp/
+│  │  ├─ app-overview.png
+│  │  ├─ MainActivity.kt
+│  │  └─ ui/
+│  │     └─ theme/
+│  │        ├─ Color.kt
+│  │        ├─ Theme.kt
+│  │        └─ Type.kt
+│  ├─ FlagCardsApp/
+│  │  ├─ app-overview.png
+│  │  ├─ MainActivity.kt
+│  │  └─ ui/
+│  │     └─ theme/
+│  │        ├─ Color.kt
+│  │        ├─ Theme.kt
+│  │        └─ Type.kt
+│  ├─ LazyCounter/
+│  │  ├─ app-overview.png
+│  │  ├─ MainActivity.kt
+│  │  └─ ui/
+│  │     └─ theme/
+│  │        ├─ Color.kt
+│  │        ├─ Theme.kt
+│  │        └─ Type.kt
+│  └─ ProductBanner/
+│     ├─ app-overview.png
+│     ├─ MainActivity.kt
+│     └─ ui/
+│        └─ theme/
+│           ├─ Color.kt
+│           ├─ Theme.kt
+│           └─ Type.kt
+├─ README.md
+└─ shared-resources/
+   ├─ icons/
+   │  └─ globe.png
+   └─ images/
+      ├─ austria.png
+      ├─ bangladesh.png
+      ├─ dingo.jpg
+      ├─ finland.png
+      ├─ finnma_logo.png
+      ├─ india.png
+      ├─ panther.png
+      ├─ rosbot3.jpg
+      └─ unitree.jpg
+
 
 ---
 
