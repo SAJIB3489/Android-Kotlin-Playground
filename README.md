@@ -43,7 +43,25 @@ Android-Kotlin-Playground/
 
 ## 📱 Apps Overview  
 
-### 5. LazyCounter
+### 4. ProductBanner
+The Product Banner App is a simple Kotlin-based Android application that showcases the products with a visually appealing banner. The app displays the background products image along with the products name, company name, and contact information in a well-structured layout.
+
+<kbd>
+  <img src="/apps/ProductBanner/app-overview.png">
+</kbd>
+
+
+- **Features:**  
+  - Products with Images
+  - Clear & Structured Layout
+  - Company & Contact Information
+  - Customizable Design – Flexible alignments, fonts, and styles.
+
+📂 **Path:** ![apps/ProductBanner/](apps/ProductBanner/) 
+
+---
+
+### 5. CounterApp
 Triple Counter is a simple yet interactive Kotlin-based Android app that allows users to manage three independent counters. Each counter has its own + and - buttons to increment or decrement values. Users can also set a custom starting value through an editable text field.
 
 <kbd>
