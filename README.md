@@ -3,7 +3,6 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 
 ## 📂 Repository Structure  
 
-
 Android-Kotlin-Playground/
 │── apps/                  
 │   ├── FlagCardsApp/       # App to display country flags  
@@ -19,7 +18,6 @@ Android-Kotlin-Playground/
 │
 │── README.md               # Documentation for repository  
 │── .gitignore              # Excludes unnecessary files from Git  
-
 
 ---
 
