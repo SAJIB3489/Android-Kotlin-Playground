@@ -43,6 +43,24 @@ Android-Kotlin-Playground/
 
 ## 📱 Apps Overview  
 
+### 7. LazyCounter
+Triple Counter is a simple yet interactive Kotlin-based Android app that allows users to manage three independent counters. Each counter has its own + and - buttons to increment or decrement values. Users can also set a custom starting value through an editable text field.
+
+<kbd>
+  <img src="/apps/CounterApp/app-overview.png">
+</kbd>
+
+
+- **Features:**  
+  - Three Independent Counters – Each counter operates separately.
+  - Custom Starting Value – Users can enter an initial value in a text field.
+  - Increment & Decrement Buttons – Each counter has + and - buttons.
+  - Organized UI Layout – Uses a Column for structured alignment.
+
+📂 **Path:** ![apps/CounterApp/](apps/CounterApp/) 
+
+---
+
 ### 6. FlagCardsApp  🏁
 FlagCards is a simple Kotlin-based Android app that displays the names and flags of four different countries in a visually appealing card layout. Each country's information is presented in a custom-styled card using Jetpack Compose. The app follows Material Design principles and supports both dark mode and dynamic color themes.
 
