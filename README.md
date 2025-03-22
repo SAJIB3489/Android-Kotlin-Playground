@@ -8,7 +8,7 @@ Android-Kotlin-Playground/
 │   ├── CounterApp/
 │   ├── FlagCardsApp/   
 │   ├── LazyCounter/  
-│   ├── ProductBanner/  
+│   ├── ProductBannerApp/  
 │   ├── MoreApps.../        
 │
 │── shared-resources/ 
