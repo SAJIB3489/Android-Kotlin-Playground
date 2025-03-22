@@ -5,9 +5,9 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 
 Android-Kotlin-Playground/
 │── apps/                  
-│   ├── CounterApp/
-│   ├── FlagCardsApp/   
-│   ├── LazyCounter/  
+│   ├── FlagCardsApp/       # App to display country flags  
+│   ├── MultiCounterApp/   
+│   ├── TripleCounterApp/  
 │   ├── ProductBannerApp/  
 │   ├── MoreApps.../        
 │
