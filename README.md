@@ -4,18 +4,6 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 ## 📂 Repository Structure  
 
 Android-Kotlin-Playground/
-│── apps/
-│ ├── FlagCardsApp/
-│ ├── WeatherApp/
-│ └── NotesApp/
-│── shared-resources/
-│   ├── fonts/
-│   ├── icons/  
-│   └── images/
-│── README.md
-│── .gitignore 
-
-Android-Kotlin-Playground/
 │── apps/                  
 │   ├── FlagCardsApp/       # App to display country flags  
 │   ├── MultiCounterApp/    # Scrollable list of independent counters  
