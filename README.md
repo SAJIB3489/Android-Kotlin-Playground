@@ -3,6 +3,7 @@ A collection of Kotlin Android apps and exercises for learning and experimenting
 
 ## 📂 Repository Structure  
 
+```sh
 Android-Kotlin-Playground/
 ├─ .gitignore
 ├─ apps/
@@ -52,7 +53,7 @@ Android-Kotlin-Playground/
       ├─ panther.png
       ├─ rosbot3.jpg
       └─ unitree.jpg
-
+```
 
 ---
 
