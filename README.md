@@ -120,7 +120,7 @@ The Multi Counter App is a Kotlin-based Android application that provides a scro
   - Auto-Labeled Counters – Each counter is named Counter_# automatically.
   - Smooth UI & State Management – Ensures a seamless experience with Jetpack Compose.
 
-📂 **Path:** ![apps/LazyCounter/](apps/LazyCounter/) 
+📂 **Path:** [apps/LazyCounter/](apps/LazyCounter/) 
 
 ---
 
