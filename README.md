@@ -63,7 +63,7 @@ The Product Banner App is a simple Kotlin-based Android application that showcas
   - Company & Contact Information
   - Customizable Design – Flexible alignments, fonts, and styles.
 
-📂 **Path:** ![apps/ProductBanner/](apps/ProductBanner/) 
+📂 **Path:** [apps/ProductBanner/](apps/ProductBanner/) 
 
 ---
 
@@ -81,7 +81,7 @@ Triple Counter is a simple yet interactive Kotlin-based Android app that allows 
   - Increment & Decrement Buttons – Each counter has + and - buttons.
   - Organized UI Layout – Uses a Column for structured alignment.
 
-📂 **Path:** ![apps/CounterApp/](apps/CounterApp/) 
+📂 **Path:** [apps/CounterApp/](apps/CounterApp/) 
 
 ---
 
@@ -101,7 +101,7 @@ FlagCards is a simple Kotlin-based Android app that displays the names and flags
   - Dark Theme Enabled
   - Custom App Icon
 
-📂 **Path:** ![apps/FlagCardsApp/](apps/FlagCardsApp/) 
+📂 **Path:** [apps/FlagCardsApp/](apps/FlagCardsApp/) 
 
 ---
 
