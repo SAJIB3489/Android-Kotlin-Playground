@@ -10,6 +10,7 @@ Android-Kotlin-Playground/
 │  ├─ CounterApp/
 │  ├─ FlagCardsApp/
 │  ├─ LazyCounter/
+│  ├─ ProductBanner/
 │  └─ ProductBanner/
 │
 ├─ shared-resources/
@@ -121,6 +122,25 @@ The Multi Counter App is a Kotlin-based Android application that provides a scro
   - Smooth UI & State Management – Ensures a seamless experience with Jetpack Compose.
 
 📂 **Path:** [apps/LazyCounter/](apps/LazyCounter/) 
+
+---
+
+### 5. WeatherStack
+The WeatherStack app is a Kotlin-based Android application that fetches and displays the weather data (temperature and humidity) for specified cities. It uses a LazyList to stack and present the weather data of multiple locations efficiently. The app leverages Retrofit for network operations and Jetpack Compose for its UI.
+
+<kbd>
+  <img src="/apps/WeatherStack-API/app-overview.png">
+</kbd>
+
+
+- **Features:**  
+  - Weather Data Display – Fetches and displays temperature and humidity for specified cities.
+  - LazyList for Weather Data – Efficiently stacks multiple locations' weather data using LazyColumn.
+  - Dynamic City Management – Users can add and view weather data for different cities.
+  - Detailed Weather Information – Shows detailed information like temperature and humidity using Jetpack Compose.
+  - Smooth and Responsive UI – Ensures a seamless user experience with modern UI elements.
+
+📂 **Path:** ![app/WeatherStack-API/](apps/WeatherStack-API/) 
 
 ---
 
